@@ -23,6 +23,14 @@ I work with React, Node.js, MongoDB, Express, TypeScript, and AWS.
 ![AWS CloudWatch](https://img.shields.io/badge/-CloudWatch-232F3E?style=flat-square&logo=amazon-aws)
 ![DevOps](https://img.shields.io/badge/-DevOps-3178c6?style=flat-square&logo=devdotto)
 ![UFW](https://img.shields.io/badge/-UFW-3E8E41?style=flat-square&logo=ubuntu)
+![Fail2Ban](https://img.shields.io/badge/-Fail2Ban-222222?style=flat-square)
+![Palo Alto Networks](https://img.shields.io/badge/-Palo%20Alto%20Networks-007196?style=flat-square)
+![AWS Security Groups](https://img.shields.io/badge/-Security%20Groups-232F3E?style=flat-square&logo=amazon-aws)
+![iptables](https://img.shields.io/badge/-iptables-333333?style=flat-square&logo=linux)
+
+
+
+
 
 
 
