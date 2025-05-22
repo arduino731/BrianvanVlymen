@@ -5,6 +5,7 @@ I work with React, Node.js, MongoDB, Express, TypeScript, and AWS.
 
 - 🔭 I’m currently working on: [E-commerce Platform](https://github.com/arduino731/MernEcommercePro)
 - 🌱 I’m learning: DevOps, Terraform, and scalable cloud architecture
+- ⚡  I'm interested in Machine Learning and AI as side projects- hit me up!
 
 ## 📫 How to reach me
 
