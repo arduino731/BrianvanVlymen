@@ -5,7 +5,11 @@ I work with React, Node.js, MongoDB, Express, TypeScript, and AWS.
 
 - 🔭 I’m currently working on: [E-commerce Platform](https://github.com/arduino731/MernEcommercePro)
 - 🌱 I’m learning: DevOps, Terraform, and scalable cloud architecture
-- 📫 How to reach me: [van-vlymen.com](https://van-vlymen.com) or [Arduino731@gmail.com](Arduino731@gmail.com)
+
+## 📫 How to reach me
+
+- 🌐 Website: [van-vlymen.com](https://van-vlymen.com)
+- 📧 Email: [Arduino731@gmail.com](mailto:Arduino731@gmail.com)
 
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
