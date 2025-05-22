@@ -22,6 +22,8 @@ I work with React, Node.js, MongoDB, Express, TypeScript, and AWS.
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
 ![AWS CloudWatch](https://img.shields.io/badge/-CloudWatch-232F3E?style=flat-square&logo=amazon-aws)
 ![DevOps](https://img.shields.io/badge/-DevOps-3178c6?style=flat-square&logo=devdotto)
+![UFW](https://img.shields.io/badge/-UFW-3E8E41?style=flat-square&logo=ubuntu)
+
 
 
 
