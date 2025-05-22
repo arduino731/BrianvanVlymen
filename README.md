@@ -15,6 +15,11 @@ I work with React, Node.js, MongoDB, Express, TypeScript, and AWS.
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform)
+![AWS CloudWatch](https://img.shields.io/badge/-CloudWatch-232F3E?style=flat-square&logo=amazon-aws)
+![DevOps](https://img.shields.io/badge/-DevOps-3178c6?style=flat-square&logo=devdotto)
+
+
 
 ## 📈 GitHub Stats
 
