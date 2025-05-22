@@ -18,5 +18,5 @@ I work with React, Node.js, MongoDB, Express, TypeScript, and AWS.
 
 ## 📈 GitHub Stats
 
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=arduino731&show_icons=true&theme=dark)
 
